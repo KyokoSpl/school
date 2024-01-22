@@ -1,9 +1,9 @@
 # school
 ### This is my projekt ordner for my school coding files
 #### Links:
-Calculator:  
+##### Calculator:  
 https://github.com/WynterKiese/school/tree/main/Calculator
 
 
-Windchilltemp.:
+##### Windchilltemp.: 
 https://github.com/WynterKiese/school/tree/main/Windchill
