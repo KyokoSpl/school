@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\WynterKiese\school\Windchill\bin\Debug\Windchill.exe.config
+C:\Users\Admin\source\repos\WynterKiese\school\Windchill\bin\Debug\Windchill.exe
+C:\Users\Admin\source\repos\WynterKiese\school\Windchill\bin\Debug\Windchill.pdb
+C:\Users\Admin\source\repos\WynterKiese\school\Windchill\obj\Debug\Windchill.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WynterKiese\school\Windchill\obj\Debug\Windchill.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WynterKiese\school\Windchill\obj\Debug\Windchill.exe
+C:\Users\Admin\source\repos\WynterKiese\school\Windchill\obj\Debug\Windchill.pdb
