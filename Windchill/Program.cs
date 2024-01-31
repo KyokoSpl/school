@@ -14,7 +14,7 @@ namespace Windchill
             string EingabeTemperatur, EingabeWind;
             double WCT, T, v;
 
-            //getting data and convert to type double 
+            //getting data via user input and convert to type double 
             Console.WriteLine("Eingabe Temperatur in °C:");
             EingabeTemperatur = Console.ReadLine();
             T = Convert.ToDouble(EingabeTemperatur);
