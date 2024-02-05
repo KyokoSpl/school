@@ -1,5 +1,5 @@
 # school
-### This is my projekt ordner for my school coding files
+### This is my projekt ordner for my school coding files and else
 #### Links:
 ##### Calculator:  
 https://github.com/WynterKiese/school/tree/main/Calculator
