@@ -1,0 +1,7 @@
+C:\Users\Wynter\source\repos\school\GPS_seconds_Calculator\GPS_seconds_Calculator\bin\Debug\GPS_seconds_Calculator.exe.config
+C:\Users\Wynter\source\repos\school\GPS_seconds_Calculator\GPS_seconds_Calculator\bin\Debug\GPS_seconds_Calculator.exe
+C:\Users\Wynter\source\repos\school\GPS_seconds_Calculator\GPS_seconds_Calculator\bin\Debug\GPS_seconds_Calculator.pdb
+C:\Users\Wynter\source\repos\school\GPS_seconds_Calculator\GPS_seconds_Calculator\obj\Debug\GPS_seconds_Calculator.csproj.AssemblyReference.cache
+C:\Users\Wynter\source\repos\school\GPS_seconds_Calculator\GPS_seconds_Calculator\obj\Debug\GPS_seconds_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Wynter\source\repos\school\GPS_seconds_Calculator\GPS_seconds_Calculator\obj\Debug\GPS_seconds_Calculator.exe
+C:\Users\Wynter\source\repos\school\GPS_seconds_Calculator\GPS_seconds_Calculator\obj\Debug\GPS_seconds_Calculator.pdb
