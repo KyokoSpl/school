@@ -13,3 +13,4 @@ https://github.com/WynterKiese/school/tree/main/Buch%20Seite%2032/Windchill
 https://github.com/WynterKiese/school/tree/main/Buch%20Seite%2032/GPS_seconds_Calculator
 
 ##### Prämienlohn
+https://github.com/WynterKiese/school/tree/main/Buch%20Seite%2039/Pr%C3%A4mienlohn
