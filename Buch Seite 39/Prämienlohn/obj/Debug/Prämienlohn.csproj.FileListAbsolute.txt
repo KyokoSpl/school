@@ -1,0 +1,7 @@
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Prämienlohn\bin\Debug\Prämienlohn.exe.config
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Prämienlohn\bin\Debug\Prämienlohn.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Prämienlohn\bin\Debug\Prämienlohn.pdb
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Prämienlohn\obj\Debug\Prämienlohn.csproj.AssemblyReference.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Prämienlohn\obj\Debug\Prämienlohn.csproj.CoreCompileInputs.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Prämienlohn\obj\Debug\Prämienlohn.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Prämienlohn\obj\Debug\Prämienlohn.pdb
