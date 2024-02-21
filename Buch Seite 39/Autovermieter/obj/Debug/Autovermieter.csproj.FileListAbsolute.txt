@@ -1,0 +1,7 @@
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Autovermieter\bin\Debug\Autovermieter.exe.config
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Autovermieter\bin\Debug\Autovermieter.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Autovermieter\bin\Debug\Autovermieter.pdb
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Autovermieter\obj\Debug\Autovermieter.csproj.AssemblyReference.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Autovermieter\obj\Debug\Autovermieter.csproj.CoreCompileInputs.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Autovermieter\obj\Debug\Autovermieter.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Autovermieter\obj\Debug\Autovermieter.pdb
