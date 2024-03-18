@@ -37,3 +37,40 @@ namespace Prämienlohn
         }
     }
 }
+
+
+
+
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Body Mass Index (BMI) Calculator");
+        Console.WriteLine("---------------------------------");
+
+        Console.Write("Enter your weight in kilograms: ");
+        double weight = double.Parse(Console.ReadLine());
+
+        Console.Write("Enter your height in meters: ");
+        double height = double.Parse(Console.ReadLine());
+
+        double bmi = CalculateBMI(weight, height);
+        Console.WriteLine($"Your BMI is: {bmi}");
+
+        Console.WriteLine("BMI Categories:");
+        Console.WriteLine("Underweight: BMI < 18.5");
+        Console.WriteLine("Normal weight: 18.5 <= BMI < 25");
+        Console.WriteLine("Overweight: 25 <= BMI < 30");
+        Console.WriteLine("Obesity: BMI >= 30");
+
+        Console.ReadLine(); // So that the console doesn't close immediately
+    }
+
+    static double CalculateBMI(double weight, double height)
+    {
+        return weight / (height * height);
+    }
+}
+
