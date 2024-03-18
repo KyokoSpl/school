@@ -1,0 +1,7 @@
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Body mass index\obj\Debug\Body mass index.csproj.AssemblyReference.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Body mass index\obj\Debug\Body mass index.csproj.CoreCompileInputs.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Body mass index\bin\Debug\Body mass index.exe.config
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Body mass index\bin\Debug\Body mass index.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Body mass index\bin\Debug\Body mass index.pdb
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Body mass index\obj\Debug\Body mass index.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 39\Body mass index\obj\Debug\Body mass index.pdb
