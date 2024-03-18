@@ -17,3 +17,6 @@ https://github.com/KyokoSpl/school/tree/main/Buch%20Seite%2039/Pr%C3%A4mienlohn
 
 #### Auto vermieter
 https://github.com/KyokoSpl/school/tree/main/Buch%20Seite%2039/Autovermieter
+
+#### BMI
+https://github.com/KyokoSpl/school/tree/main/Buch%20Seite%2045/Body%20mass%20index
