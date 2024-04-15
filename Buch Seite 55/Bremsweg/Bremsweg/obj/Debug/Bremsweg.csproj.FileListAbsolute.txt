@@ -1,0 +1,7 @@
+C:\Users\Wynter\source\repos\school\Buch Seite 55\Bremsweg\Bremsweg\bin\Debug\Bremsweg.exe.config
+C:\Users\Wynter\source\repos\school\Buch Seite 55\Bremsweg\Bremsweg\bin\Debug\Bremsweg.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 55\Bremsweg\Bremsweg\bin\Debug\Bremsweg.pdb
+C:\Users\Wynter\source\repos\school\Buch Seite 55\Bremsweg\Bremsweg\obj\Debug\Bremsweg.csproj.AssemblyReference.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 55\Bremsweg\Bremsweg\obj\Debug\Bremsweg.csproj.CoreCompileInputs.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 55\Bremsweg\Bremsweg\obj\Debug\Bremsweg.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 55\Bremsweg\Bremsweg\obj\Debug\Bremsweg.pdb
