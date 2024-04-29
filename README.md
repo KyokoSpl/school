@@ -28,5 +28,8 @@
 
 <https://github.com/KyokoSpl/school/tree/main/Buch%20Seite%2045/Body%20mass%20index>
 
+### Versandkosten
+<https://github.com/KyokoSpl/school/tree/main/Buch%20Seite%2052/Versandkosten>
+
 ### Bremsweg
 <https://github.com/KyokoSpl/school/tree/main/Buch%20Seite%2055/Bremsweg>

@@ -19,7 +19,7 @@ namespace Versandkosten
             itemgroup_in = Console.ReadLine();
             int itemgroup = Convert.ToInt32(itemgroup_in);
             shippingcost = shippingcost_arr[itemgroup-1];
-            Console.WriteLine("Die Versandcosten für Warengruppe:{0} betragen {1}€", itemgroup, shippingcost);
+            Console.WriteLine("Die Versandcosten für Warengruppe:{0} betragen {1}EUR", itemgroup, shippingcost);
             Console.ReadKey();
         }
     }
