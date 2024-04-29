@@ -1,0 +1,7 @@
+C:\Users\Wynter\source\repos\school\Buch Seite 52\Versandkosten\bin\Debug\Versandkosten.exe.config
+C:\Users\Wynter\source\repos\school\Buch Seite 52\Versandkosten\bin\Debug\Versandkosten.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 52\Versandkosten\bin\Debug\Versandkosten.pdb
+C:\Users\Wynter\source\repos\school\Buch Seite 52\Versandkosten\obj\Debug\Versandkosten.csproj.AssemblyReference.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 52\Versandkosten\obj\Debug\Versandkosten.csproj.CoreCompileInputs.cache
+C:\Users\Wynter\source\repos\school\Buch Seite 52\Versandkosten\obj\Debug\Versandkosten.exe
+C:\Users\Wynter\source\repos\school\Buch Seite 52\Versandkosten\obj\Debug\Versandkosten.pdb
