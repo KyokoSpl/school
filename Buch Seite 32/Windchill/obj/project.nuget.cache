@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/60VzbAmIs8DUKfEVdx01qBJaqjfox//EIDRUEuBysm/VytVOyYaUA4BIWKrjVgsNJt54Ef4Xp4Qbu9NVU1Ulg==",
+  "success": true,
+  "projectFilePath": "/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/Windchill.csproj",
+  "expectedPackageFiles": [
+    "/home/wynter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

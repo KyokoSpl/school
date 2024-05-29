@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZfDDZfYB+VzIDa3rXOi9kW6lNw0HHnJu1dkNmPvMVcx9SQw21ucbF9rG82RrsVD7ekYaq9iqn185qqIm0Sazg==",
+  "success": true,
+  "projectFilePath": "/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/again.csproj",
+  "expectedPackageFiles": [
+    "/home/wynter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.GeneratedMSBuildEditorConfig.editorconfig
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.AssemblyInfoInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.AssemblyInfo.cs
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.csproj.CoreCompileInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.sourcelink.json
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/bin/Debug/net8.0/Windchill
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/bin/Debug/net8.0/Windchill.dll.config
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/bin/Debug/net8.0/Windchill.deps.json
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/bin/Debug/net8.0/Windchill.runtimeconfig.json
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/bin/Debug/net8.0/Windchill.dll
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/bin/Debug/net8.0/Windchill.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.dll
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/refint/Windchill.dll
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/Windchill.genruntimeconfig.cache
+/home/wynter/Documents/schule/LF5/projects/cs/Buch Seite 32/Windchill/obj/Debug/net8.0/ref/Windchill.dll
