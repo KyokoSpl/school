@@ -1,0 +1,15 @@
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/bin/Debug/net8.0/while_exercise
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/bin/Debug/net8.0/while_exercise.deps.json
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/bin/Debug/net8.0/while_exercise.runtimeconfig.json
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/bin/Debug/net8.0/while_exercise.dll
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/bin/Debug/net8.0/while_exercise.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.AssemblyInfoInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.AssemblyInfo.cs
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.csproj.CoreCompileInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.sourcelink.json
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.dll
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/refint/while_exercise.dll
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/while_exercise.genruntimeconfig.cache
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/while_exercise/obj/Debug/net8.0/ref/while_exercise.dll
