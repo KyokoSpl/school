@@ -33,3 +33,6 @@
 
 ### Bremsweg
 <https://github.com/KyokoSpl/school/tree/main/Buch%20Seite%2055/Bremsweg>
+
+### Schleifen
+<https://github.com/KyokoSpl/school/tree/main/Schleifen>
