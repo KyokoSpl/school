@@ -1,0 +1,15 @@
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/bin/Debug/net8.0/again
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/bin/Debug/net8.0/again.deps.json
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/bin/Debug/net8.0/again.runtimeconfig.json
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/bin/Debug/net8.0/again.dll
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/bin/Debug/net8.0/again.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.GeneratedMSBuildEditorConfig.editorconfig
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.AssemblyInfoInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.AssemblyInfo.cs
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.csproj.CoreCompileInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.sourcelink.json
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.dll
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/refint/again.dll
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/again.genruntimeconfig.cache
+/home/wynter/Documents/schule/LF5/projects/cs/ausprobieren/again/obj/Debug/net8.0/ref/again.dll

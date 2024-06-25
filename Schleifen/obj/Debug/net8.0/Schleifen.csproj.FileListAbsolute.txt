@@ -1,0 +1,15 @@
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/bin/Debug/net8.0/Schleifen
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/bin/Debug/net8.0/Schleifen.deps.json
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/bin/Debug/net8.0/Schleifen.runtimeconfig.json
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/bin/Debug/net8.0/Schleifen.dll
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/bin/Debug/net8.0/Schleifen.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.GeneratedMSBuildEditorConfig.editorconfig
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.AssemblyInfoInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.AssemblyInfo.cs
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.csproj.CoreCompileInputs.cache
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.sourcelink.json
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.dll
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/refint/Schleifen.dll
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.pdb
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/Schleifen.genruntimeconfig.cache
+/home/wynter/Documents/schule/LF5/projects/cs/Schleifen/obj/Debug/net8.0/ref/Schleifen.dll
